@@ -28,7 +28,7 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.2 * 1000} style={{ marginTop: "2rem", marginBottom: "2rem" }}>
           <p>
-            But my services go beyond just custom development - I'm also proficient in using  systems like  and Shopify, making it easy for my clients to take control of their own websites and keep them up to date.</p>
+          But my services go beyond just custom development — I'm also proficient in using various content management systems, making it easy for my clients to take control of their own websites and keep them up to date.</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.3 * 1000}>
           <p>
