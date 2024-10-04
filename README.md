@@ -1,4 +1,4 @@
-# Portfolio of Vinayak Singh
+# Portfolio of Daniel kebede
 
 <img src ="https://github.com/danielkeb" />
  
